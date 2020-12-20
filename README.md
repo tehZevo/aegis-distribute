@@ -1,5 +1,5 @@
-# PostFaast Distribute
-Calls multiple other PostFaast functions with the provided data. Or just constantly calls other functions :)
+# Aegis Distribute Node
+Calls multiple other Aegis functions with the provided data. Or just constantly calls other functions :)
 
 ## Environment variables
 - SYNC: if true, will call each target function in succession. If false, awaits each in a Promise.all
